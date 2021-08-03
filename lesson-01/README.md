@@ -1,5 +1,7 @@
 # Программирование для детей
 ## Запуск среды Scratch онлайн
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cxiDB9-ZOec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Первая задача - запустить программу.  
 Для этого - необходимо зайти по адресу <a href = "https://scratch.mit.edu/">https://scratch.mit.edu/</a>. И нажать кнопку "Начать создавать".  
 Перед вами рабочее поле среды программирования Scratch.
