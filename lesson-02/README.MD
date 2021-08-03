@@ -1,5 +1,7 @@
 # Движение по точкам
 ## Замок
+[![First Video](https://img.youtube.com/vi/KvWqeAr5SeQ/0.jpg)](http://www.youtube.com/watch?v=KvWqeAr5SeQ)
+
 <img src = "./img/scratch01.jpg">  
   
 <img src = "./img/scratch02.jpg">  
@@ -69,6 +71,9 @@
 <img src = "./img/scratch34.jpg">  
   
 ## Движение по точкам. Космос.
+[![Second Video](https://img.youtube.com/vi/u6oJzOMGtuE/0.jpg)](http://www.youtube.com/watch?v=u6oJzOMGtuE)
+
+
 <img src = "./img/scratch35.jpg">  
   
 <img src = "./img/scratch36.jpg">  
