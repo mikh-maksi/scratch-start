@@ -1,9 +1,6 @@
 # Программирование для детей
 ## Запуск среды Scratch онлайн
-[![SC2 Video](https://img.youtube.com/vi/cxiDB9-ZOec/0.jpg)](http://www.youtube.com/watch?v=cxiDB9-ZOec)
-
-
-
+[![First Video](https://img.youtube.com/vi/cxiDB9-ZOec/0.jpg)](http://www.youtube.com/watch?v=cxiDB9-ZOec)
 
 Первая задача - запустить программу.  
 Для этого - необходимо зайти по адресу <a href = "https://scratch.mit.edu/">https://scratch.mit.edu/</a>. И нажать кнопку "Начать создавать".  
@@ -28,6 +25,8 @@
 8. Поле управления сценами.   
 
 ## Передвижение персонажа
+[![Second Video](https://img.youtube.com/vi/OHlyfWh1GJE/0.jpg)](http://www.youtube.com/watch?v=OHlyfWh1GJE)
+
 Для того, чтобы запустить движение персонажа - достаточно сделать двойное нажатие на команду "идти 10 шагов"  
 <img src = "./img/scratch03.jpg">  
 И в результате этого персонаж переместится вперед на 10 шагов.  
@@ -88,6 +87,9 @@
 
 
 ## Добавление и программирование нового персонажа.
+[![Personages](https://img.youtube.com/vi/29tYvoD1Heo/0.jpg)](http://www.youtube.com/watch?v=29tYvoD1Heo)
+29tYvoD1Heo
+
 Мы научились "прогуливать" первого персонажа - котика. Добавим еще одного персонажа.  
 Для этого в блоке управления персонажем добавим новый спрайт (персонаж).  
 <img src = "./img/scratch23.jpg">  
