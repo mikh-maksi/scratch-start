@@ -75,7 +75,7 @@ _Видео_.
 <img src = "./img/scratch30.jpg">  
   
 <img src = "./img/scratch31.jpg">  
-  
+Для того, чтобы вы легко могли найти свои проекты в каталоге - задавайте им названия, которые соответствуют теме.
 <img src = "./img/scratch32.jpg">  
   
 <img src = "./img/scratch33.jpg">  
