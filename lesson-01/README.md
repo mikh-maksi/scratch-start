@@ -1,7 +1,7 @@
 # Программирование для детей
 ## Запуск среды Scratch онлайн
 
-<div>
+<div style="position:relative;padding-bottom:56.25%;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/cxiDB9-ZOec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </div>
